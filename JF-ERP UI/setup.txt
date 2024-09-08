@@ -1,0 +1,17 @@
+erp_app/
+│
+├── main.py
+├── config.py
+│
+├── ui/
+│   ├── __init__.py
+│   ├── erp_application.py
+│   ├── inventory_dashboard.py
+│   ├── customers_dashboard.py
+│   ├── sales_dashboard.py
+│   ├── purchasing_dashboard.py
+│   ├── manufacturers_dashboard.py
+│   ├── supply_chain_dashboard.py
+│   └── finance_dashboard.py
+│
+└── requirements.txt
