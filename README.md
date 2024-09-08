@@ -1,4 +1,4 @@
-#JF-ERP-UI
+JF-ERP-UI
 JF-ERP-UI is a Python-based user interface for an ERP (Enterprise Resource Planning) system that I am developing for career advancement purposes. The app focuses on delivering an intuitive and efficient UI for managing various business processes, including inventory, sales, purchasing, and more.
 
 Project Structure
@@ -6,7 +6,7 @@ The app is organized into several dashboards, each representing key ERP function
 
 The "setup.txt" highlights the app structure of all needed files
 
-#Key Features
+Key Features
 Inventory Dashboard: Monitor stock levels and manage inventory.
 Sales Dashboard: Oversee sales orders and customer details.
 Purchasing Dashboard: Manage supplier orders and procurement.
