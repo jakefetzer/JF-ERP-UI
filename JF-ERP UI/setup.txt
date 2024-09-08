@@ -1,4 +1,4 @@
-erp_app/
+JF_ERP_APP/
 │
 ├── main.py
 ├── config.py
